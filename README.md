@@ -15,4 +15,4 @@ npm install
 npm run dev
 ```
 
-Thanks to Josh Collinsworth for sharing his (work)[https://github.com/josh-collinsworth/joco-sveltekit] as an inspiration and a starting point for my Svelte journey.
+Thanks to Josh Collinsworth for sharing his [work](https://github.com/josh-collinsworth/joco-sveltekit) as an inspiration and a starting point for my Svelte journey.
